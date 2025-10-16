@@ -1,20 +1,15 @@
-# Привет, я Кирилл!
+# Hi there 👋
 
-Привет! Меня зовут Кирилл, я начинающий  из России. В данный момент активно изучаю следующие языки и технологии:
+My name is Kirill, and I’m a junior web developer.  
+I build responsive websites from Figma designs using **HTML**, **CSS**, and the **Mobile First** approach.
 
-- 
-- 
-- 
-- 
+🧠 My main focus is clean, semantic, and adaptive layout.  
+🚀 I’m currently learning JavaScript to grow into a Frontend Developer.  
+📁 Here you’ll find my practice and study projects.
 
-### Проекты, над которыми я хотел бы работать:
-
-В будущем я бы хотел изучить и использовать следующие технологии и инструменты:
-
-- 
-
-### Контакты:
-
-Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
-
-- Электронная почта: [stinusik12@gmail.com](mailto:stinusik12@gmail.com)
+## 🛠️ Technologies & Tools
+- HTML5 / CSS3
+- Flexbox / Grid Layout
+- Mobile First / Responsive Design
+- Figma
+- Git / GitHub
