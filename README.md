@@ -1,77 +1,60 @@
-English Version
+🌟 Kirill — Frontend Developer
 
 Hi there! 👋
-My name is Kirill, and I’m a Frontend Developer.
+I'm Kirill, a passionate Frontend Developer focused on creating clean, responsive, and user-friendly interfaces.
 
-I build responsive and accessible user interfaces using React, HTML, CSS, and a solid Mobile First approach.
+I love transforming Figma designs into functional web layouts using modern tools and best practices.
 
-🔥 What I focus on
+🚀 Tech Stack & Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,figma,git,github" /> </p>
+💡 About Me
 
-Clean, semantic, maintainable code
+🔧 I build responsive interfaces using Mobile First and semantic HTML
 
-Pixel-perfect layout from Figma designs
+🎨 I enjoy translating UI layouts from Figma into pixel-perfect components
 
-Modern frontend practices and component-based architecture
+⚛️ Currently learning React and improving my component-based thinking
 
-Smooth user experience on all devices
+📚 Constantly growing through practice projects and exploration
 
-📚 Currently learning
+📁 What you’ll find here
 
-JavaScript (advanced concepts)
+My GitHub contains:
 
-React ecosystem & best practices
+Study/practice layouts
 
-🛠️ Technologies & Tools
+Component-based projects
 
-React / Vite
+React experiments
 
-HTML5 / CSS3
+Adaptive & responsive UI work
 
-Flexbox / Grid
-
-Mobile First / Responsive Design
-
-Figma
-
-Git / GitHub
-
-You can find my practice and study projects in this repository. 🚀
-
-Русская версия
+🇷🇺 Вариант на русском
+🌟 Кирилл — Фронтенд-разработчик
 
 Привет! 👋
-Меня зовут Кирилл, я — Фронтенд-разработчик.
+Меня зовут Кирилл, я фронтенд-разработчик и создаю адаптивные, аккуратные и удобные интерфейсы.
 
-Занимаюсь адаптивной и аккуратной вёрсткой интерфейсов, а также разработкой компонентов на React. Использую подход Mobile First и стремлюсь к чистому и понятному коду.
+Мне нравится превращать макеты из Figma в работающие сайты и отдельные компоненты.
 
-🔥 Основные направления
+🚀 Технологии и инструменты
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,figma,git,github" /> </p>
+💡 Немного обо мне
 
-Семантичная и поддерживаемая верстка
+🔧 Делаю адаптивную верстку по принципу Mobile First
 
-Pixel-perfect адаптация макетов из Figma
+🎨 Занимаюсь переносом макетов из Figma
 
-Современные практики фронтенда и компонентный подход
+⚛️ Изучаю React, учусь правильно проектировать компоненты
 
-Удобство и стабильность интерфейсов на любых устройствах
+📚 Постоянно развиваюсь, делаю учебные проекты
 
-📚 Сейчас изучаю
+📁 Что здесь можно найти
 
-Продвинутый JavaScript
+Учебные и практические проекты
 
-Экоcистему React и лучшие практики
+Верстка макетов
 
-🛠️ Технологии и инструменты
+React-компоненты
 
-React / Vite
-
-HTML5 / CSS3
-
-Flexbox / Grid
-
-Адаптивная верстка / Mobile First
-
-Figma
-
-Git / GitHub
-
-Здесь вы можете найти мои учебные и практические проекты. 🚀
+Адаптивные интерфейсы
