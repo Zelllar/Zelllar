@@ -1,15 +1,77 @@
-# Hi there 👋
+English Version
 
-My name is Kirill, and I’m a junior web developer.  
-I build responsive websites from Figma designs using **HTML**, **CSS**, and the **Mobile First** approach.
+Hi there! 👋
+My name is Kirill, and I’m a Frontend Developer.
 
-🧠 My main focus is clean, semantic, and adaptive layout.  
-🚀 I’m currently learning JavaScript to grow into a Frontend Developer.  
-📁 Here you’ll find my practice and study projects.
+I build responsive and accessible user interfaces using React, HTML, CSS, and a solid Mobile First approach.
 
-## 🛠️ Technologies & Tools
-- HTML5 / CSS3
-- Flexbox / Grid Layout
-- Mobile First / Responsive Design
-- Figma
-- Git / GitHub
+🔥 What I focus on
+
+Clean, semantic, maintainable code
+
+Pixel-perfect layout from Figma designs
+
+Modern frontend practices and component-based architecture
+
+Smooth user experience on all devices
+
+📚 Currently learning
+
+JavaScript (advanced concepts)
+
+React ecosystem & best practices
+
+🛠️ Technologies & Tools
+
+React / Vite
+
+HTML5 / CSS3
+
+Flexbox / Grid
+
+Mobile First / Responsive Design
+
+Figma
+
+Git / GitHub
+
+You can find my practice and study projects in this repository. 🚀
+
+Русская версия
+
+Привет! 👋
+Меня зовут Кирилл, я — Фронтенд-разработчик.
+
+Занимаюсь адаптивной и аккуратной вёрсткой интерфейсов, а также разработкой компонентов на React. Использую подход Mobile First и стремлюсь к чистому и понятному коду.
+
+🔥 Основные направления
+
+Семантичная и поддерживаемая верстка
+
+Pixel-perfect адаптация макетов из Figma
+
+Современные практики фронтенда и компонентный подход
+
+Удобство и стабильность интерфейсов на любых устройствах
+
+📚 Сейчас изучаю
+
+Продвинутый JavaScript
+
+Экоcистему React и лучшие практики
+
+🛠️ Технологии и инструменты
+
+React / Vite
+
+HTML5 / CSS3
+
+Flexbox / Grid
+
+Адаптивная верстка / Mobile First
+
+Figma
+
+Git / GitHub
+
+Здесь вы можете найти мои учебные и практические проекты. 🚀
