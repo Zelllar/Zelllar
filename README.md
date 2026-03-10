@@ -1,60 +1,52 @@
-🌟 Kirill — Frontend Developer
+🌟 Kirill — JavaScript / Full-Stack Developer
 
 Hi there! 👋
-I'm Kirill, a passionate Frontend Developer focused on creating clean, responsive, and user-friendly interfaces.
+I'm Kirill, a JavaScript developer focused on building clean, responsive interfaces and functional backend services.
 
-I love transforming Figma designs into functional web layouts using modern tools and best practices.
+I enjoy transforming Figma designs into working web applications and implementing the server-side logic that powers them.
 
 🚀 Tech Stack & Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,figma,git,github" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,figma,git,github,nodejs,express,postgres,npm,vscode" /> </p>
+
 💡 About Me
 
 🔧 I build responsive interfaces using Mobile First and semantic HTML
 
-🎨 I enjoy translating UI layouts from Figma into pixel-perfect components
+⚛️ I develop frontend applications using JavaScript and React
 
-⚛️ Currently learning React and improving my component-based thinking
+🧩 I create backend services with Node.js, Express and REST APIs
 
-📚 Constantly growing through practice projects and exploration
+🗄️ I work with PostgreSQL databases and SQL queries
+
+📚 Constantly improving my skills through practice projects and new technologies
 
 📁 What you’ll find here
 
 My GitHub contains:
 
-Study/practice layouts
+Full-stack practice projects
+Frontend layouts and UI experiments
+REST API backend projects
+Learning projects while studying web development
 
-Component-based projects
-
-React experiments
-
-Adaptive & responsive UI work
-
-🇷🇺 Вариант на русском
-🌟 Кирилл — Фронтенд-разработчик
+🌟 Кирилл — JavaScript / Full-Stack разработчик
 
 Привет! 👋
-Меня зовут Кирилл, я фронтенд-разработчик и создаю адаптивные, аккуратные и удобные интерфейсы.
+Меня зовут Кирилл, я JavaScript-разработчик, который занимается созданием адаптивных интерфейсов и серверной логики веб-приложений.
 
-Мне нравится превращать макеты из Figma в работающие сайты и отдельные компоненты.
+Мне нравится превращать макеты из Figma в полноценные веб-приложения и реализовывать backend-логику, которая стоит за ними.
 
 🚀 Технологии и инструменты
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,figma,git,github" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,figma,git,github,nodejs,express,postgres,npm,vscode" /> </p>
+
 💡 Немного обо мне
 
 🔧 Делаю адаптивную верстку по принципу Mobile First
 
-🎨 Занимаюсь переносом макетов из Figma
+⚛️ Разрабатываю frontend-приложения на JavaScript и React
 
-⚛️ Изучаю React, учусь правильно проектировать компоненты
+🧩 Пишу backend на Node.js и Express, создаю REST API
 
-📚 Постоянно развиваюсь, делаю учебные проекты
+🗄️ Работаю с базами данных PostgreSQL и SQL
 
-📁 Что здесь можно найти
-
-Учебные и практические проекты
-
-Верстка макетов
-
-React-компоненты
-
-Адаптивные интерфейсы
+📚 Постоянно развиваюсь через практические проекты
